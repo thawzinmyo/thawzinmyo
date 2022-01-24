@@ -1,4 +1,4 @@
-<<img src="https://media-exp1.licdn.com/dms/image/C4E16AQGrsv8NUTSujg/profile-displaybackgroundimage-shrink_200_800/0/1603801649758?e=1648684800&v=beta&t=BQWrHnZ_XW7v0hiUZs6bwMbkPg5DbIIT9fGvJOKzT5A" alt="Banner about Thaw Zin Myo">
+<img src="https://media-exp1.licdn.com/dms/image/C4E16AQGrsv8NUTSujg/profile-displaybackgroundimage-shrink_200_800/0/1603801649758?e=1648684800&v=beta&t=BQWrHnZ_XW7v0hiUZs6bwMbkPg5DbIIT9fGvJOKzT5A" alt="Banner about Thaw Zin Myo">
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/thawzinmyo/count.svg" />
