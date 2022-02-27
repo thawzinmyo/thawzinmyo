@@ -68,7 +68,7 @@ width="40" height="40"/></a></a>
 </p>
 
 <h3 align="center">Certifications</h3>
-
+- Certified Kubernetes Application Developer
 - AWS Certified Cloud Practitioner
 - AWS Certified Solutions Architect - Associate
 - Microsoft Certified Azure Fundamentals
