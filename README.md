@@ -68,7 +68,6 @@ width="40" height="40"/></a></a>
 </p>
 
 <h3 align="center">Certifications</h3>
-<<<<<<< HEAD
 
 - Certified Kubernetes Application Developer (CKAD)
 - Kubernetes Application Developer
