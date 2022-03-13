@@ -108,8 +108,7 @@ width="40" height="40"/></a></a>
 <a href="https://twitter.com/thaw_zin_myo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thaw_zin_myo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/thaw-zin-myo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/thaw-zin-myo" height="30" width="40" /></a>
 <a href="https://instagram.com/thaw_zin_my0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thaw_zin_my0" height="30" width="40" /></a>
-<<<<<<< HEAD
+
 <p align="left"> <a href="https://twitter.com/thaw_zin_myo" target="blank"><img src="https://img.shields.io/twitter/follow/thaw_zin_myo?logo=twitter&style=for-the-badge" alt="thaw_zin_myo" /></a> </p>
-=======
-<p align="left"> <a href="https://twitter.com/thaw_zin_myo" target="blank"><img src="https://img.shields.io/twitter/follow/thaw_zin_myo?logo=twitter&style=for-the-badge" alt="thaw_zin_myo" /></a> </p>
->>>>>>> d471cfc524fab98d23d9c328b742d2563fd41eab
+
+
