@@ -69,6 +69,7 @@ width="40" height="40"/></a></a>
 
 <h3 align="center">Certifications</h3>
 
+- Kubernetes and Cloud Native Associate (KCNA)
 - Certified Kubernetes Administrator (CKA)
 - Certified Kubernetes Application Developer (CKAD)
 - Kubernetes Application Developer
