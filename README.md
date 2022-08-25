@@ -9,7 +9,7 @@
 
 
 <p align="left">
-My name is Thaw Zin Myo. My previcious job is related Software, System and Network for Banks and Enterprise Companies. After that, I decide to hunt the technologies such as Microservices, Containerization, Orchestration, CI/CD, Infrastructure as Code(IaC), Cloud etc... I love to collaborate with you. 
+My name is Thaw Zin Myo. Experience with Cloud, Container, Endpoint Security, Monitoring, Software, System and Network for Banks and Enterprise Companies. After that, I decide to hunt the technologies such as Microservices, Containerization, Orchestration, CI/CD, Infrastructure as Code(IaC), Cloud etc... I love to collaborate with you. 
 
 </p>
 
