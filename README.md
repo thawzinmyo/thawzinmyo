@@ -76,10 +76,10 @@ My name is Thaw Zin Myo (Jack). I have extensive experience with:
 
 ## 🤝 Connect with Me
 
-<div align="center">
+<!-- <div align="center">
 
 [![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/thaw_zin_myo)
 [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/thaw-zin-myo)
 [![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/thaw_zin_my0)
 
-</div>
+</div> -->
