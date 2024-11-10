@@ -35,6 +35,8 @@ My name is Thaw Zin Myo (Jack). I have extensive experience with:
 ## 🏆 Certifications
 
 ### Cloud Platforms
+- AWS Certified SysOps Administrator - Associate
+- AWS Certified Developer - Associate
 - AWS Certified Solutions Architect - Associate
 - AWS Certified Cloud Practitioner
 - Microsoft Certified: Azure Administrator Associate (AZ-104)
@@ -75,8 +77,6 @@ My name is Thaw Zin Myo (Jack). I have extensive experience with:
 ## 🤝 Connect with Me
 
 <div align="center">
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/thaw_zin_myo?logo=twitter&style=for-the-badge)](https://twitter.com/thaw_zin_myo)
 
 [![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/thaw_zin_myo)
 [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/thaw-zin-myo)
