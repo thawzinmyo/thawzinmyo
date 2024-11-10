@@ -1,76 +1,85 @@
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/thawzinmyo/count.svg" />
-</p>
-<h1 align="center">Hi 👋, I'm Thaw Zin Myo from Myanmar. Nice to meet you virtually.</h1>
-<h3 align="center">A passionate Cloud and DevOps from Myanmar.</h3>
+<div align="center">
+  
+# Hi 👋, I'm Thaw Zin Myo from Myanmar
+### A passionate Cloud and DevOps Engineer
 
+[![Visitor Count](https://profile-counter.glitch.me/thawzinmyo/count.svg)](https://github.com/thawzinmyo)
 
+</div>
 
-<p align="left">
-My name is Thaw Zin Myo(Jack). Experience with AWS, Azure, GCP, Digital Ocan, Kubernetes Container, IaC, CI/CD, Database, Observability, Cost Optimization, Endpoint Security, System and Network for Banks and Enterprise Companies. And Keep going. 
-</p>
+## 👨‍💻 About Me
 
-</br>
+My name is Thaw Zin Myo (Jack). I have extensive experience with:
+- Cloud Platforms (AWS, Azure, GCP, Digital Ocean)
+- Container Orchestration (Kubernetes)
+- Infrastructure as Code (IaC)
+- CI/CD Implementation
+- Database Management
+- Observability Solutions
+- Cost Optimization
+- Endpoint Security
+- System and Network Administration for Banks and Enterprise Companies
 
+## 🛠️ Cloud and DevOps Skills
 
-<h3 align="center">Cloud and DevOps Skills:</h3>
+<div align="center">
 
-</br>
-<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.terraform.io" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/50/000000/terraform.png" alt="terraform" width="40" height="40"/> </a><a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+| Cloud | DevOps | Infrastructure | Other |
+|-------|--------|---------------|--------|
+| [![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)](https://aws.amazon.com) | [![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)](https://www.docker.com/) | [![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg)](https://kubernetes.io) | [![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/) |
+| [![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)](https://azure.microsoft.com/) | [![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)](https://www.jenkins.io) | [![Terraform](https://img.icons8.com/color/50/000000/terraform.png)](https://www.terraform.io) | [![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org) |
+| | [![Nginx](https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg)](https://www.nginx.com) | [![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/) | |
 
-<p align="left"> 
+</div>
 
-</br>
+## 🏆 Certifications
 
-<h3 align="center">Certifications</h3>
-
+### Cloud Platforms
+- AWS Certified Solutions Architect - Associate
+- AWS Certified Cloud Practitioner
 - Microsoft Certified: Azure Administrator Associate (AZ-104)
-- Kubernetes and Cloud Native Associate (KCNA)
+- Microsoft Certified Azure Fundamentals (AZ-900)
+- Aviatrix Certified Engineer Associate - Multi Cloud Networking
+
+### Kubernetes & Container
 - Certified Kubernetes Administrator (CKA)
 - Certified Kubernetes Application Developer (CKAD)
+- Kubernetes and Cloud Native Associate (KCNA)
 - Kubernetes Application Developer
 - GitOps Fundamentals (ArgoCD)
-- AWS Certified Cloud Practitioner
-- AWS Certified Solutions Architect - Associate
-- Microsoft Certified Azure Fundamentals (AZ-900)
-- Aviatrix Certiried Engineer Associate - Multi Cloud Networking
-- Certiried Linux Foundation
+
+### Other Technical Certifications
+- Certified Linux Foundation
 - Peplink Certified Engineer
-- Peplink Certified Sale Specilist
+- Peplink Certified Sale Specialist
 - Certified Wireless Networking
-- Certified Secure Computer User ( EC-Council)
+- Certified Secure Computer User (EC-Council)
 - EMV Personalization System
 
-</br>
+## 📊 GitHub Statistics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thawzinmyo&show_icons=true&locale=en&layout=compact" alt="thawzinmyo" /></p>
+<div align="center">
 
-</br>
-</br>
-</br>
-</br>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=thawzinmyo&show_icons=true&locale=en&layout=compact&theme=dark)](https://github.com/thawzinmyo)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thawzinmyo&show_icons=true&locale=en" alt="thawzinmyo" /></p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thawzinmyo&show_icons=true&locale=en&theme=dark)](https://github.com/thawzinmyo)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thawzinmyo&" alt="thawzinmyo" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thawzinmyo&theme=dark)](https://github.com/thawzinmyo)
 
-</br>
+[![Profile Views](https://komarev.com/ghpvc/?username=thawzinmyo&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/thawzinmyo)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thawzinmyo&label=Profile%20views&color=0e75b6&style=flat" alt="thawzinmyo" /> </p>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=thawzinmyo&theme=darkhub)](https://github.com/thawzinmyo)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thawzinmyo" alt="thawzinmyo" /></a> </p>
+</div>
 
+## 🤝 Connect with Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/thaw_zin_myo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thaw_zin_myo" height="30" width="40" /></a>
+<div align="center">
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/thaw-zin-myo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/thaw-zin-myo" height="30" width="40" /></a>
+[![Twitter Follow](https://img.shields.io/twitter/follow/thaw_zin_myo?logo=twitter&style=for-the-badge)](https://twitter.com/thaw_zin_myo)
 
-<a href="https://instagram.com/thaw_zin_my0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thaw_zin_my0" height="30" width="40" /></a>
+[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/thaw_zin_myo)
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/thaw-zin-myo)
+[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/thaw_zin_my0)
 
-<p align="left"> <a href="https://twitter.com/thaw_zin_myo" target="blank"><img src="https://img.shields.io/twitter/follow/thaw_zin_myo?logo=twitter&style=for-the-badge" alt="thaw_zin_myo" /></a> </p>
-
-
+</div>
