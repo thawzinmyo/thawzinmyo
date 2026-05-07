@@ -51,16 +51,17 @@ I am Thaw Zin Myo (Jack), a Cloud and DevOps | DevSecOps Engineer with hands-on 
 ## 🏆 Certifications
 
 ### Cloud Platforms
+#### AWS
 - AWS Certified SysOps Administrator - Associate - [2023-Present]
 - AWS Certified Developer - Associate - [2023-Expired]
 - AWS Certified Solutions Architect - Associate - [2021-Present]
 - AWS Certified Cloud Practitioner - [2020-Present]
+#### Azure
 - Microsoft Certified: Azure DevOps Engineer Expert (AZ-400) - [2026]
 - Microsoft Certified: Azure Developer Associate (AZ-204) - [2026]
 - Microsoft Certified: Azure Solutions Architect Expert (AZ-305) - [2024-Present]
 - Microsoft Certified: Azure Administrator Associate (AZ-104) - [2024-Present]
-- Microsoft Certified Azure Fundamentals (AZ-900) - [2020-Present]
-- Aviatrix Certified Engineer Associate - Multi Cloud Networking - [2020-2023]
+- Microsoft Certified: Azure Fundamentals (AZ-900) - [2020-Present]
 
 ### Kubernetes & Container
 - Kubestronaut [2026]
@@ -76,7 +77,7 @@ I am Thaw Zin Myo (Jack), a Cloud and DevOps | DevSecOps Engineer with hands-on 
 ### Infrastructure & GitOps
 - HashiCorp Certified: Terraform Associate (003) - [2023 - Expired]
 
-### Other Technical Certifications
+### Other Security, Data, Networking Certifications
 - Databricks: Generative AI Fundamentals [2024-2026]
 - Databricks: Platform Administator [2024-2025]
 - Databricks: Fundamentals [2024-2025]
@@ -86,6 +87,7 @@ I am Thaw Zin Myo (Jack), a Cloud and DevOps | DevSecOps Engineer with hands-on 
 - Fortinet: NSE 1 Network Security Associate [2020-2022]
 - Peplink Certified Engineer [2020-2022]
 - Peplink Certified Sale Specialist [2020-2022]
+- Aviatrix Certified Engineer Associate - Multi Cloud Networking - [2020-2023]
 - Certified Wireless Networking
 - Certified Secure Computer User (EC-Council)
 - EMV Personalization System
